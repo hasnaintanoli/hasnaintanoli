@@ -1,4 +1,6 @@
-# Hi, I'm Hasnain Ali 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hasnain+Ali+%F0%9F%91%8B" alt="Hi, I'm Hasnain Ali" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Mobile+App+Developer;AI+Student;Building+Modern+Digital+Solutions" alt="Typing Animation" />
