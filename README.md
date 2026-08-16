@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hasnain Ali 👋
 
-<!--
-**hasnaintanoli/hasnaintanoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Mobile+App+Developer;AI+Student;Building+Modern+Digital+Solutions" alt="Typing Animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Full Stack Web Developer • Mobile App Developer • AI Student</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building **clean, modern, and scalable digital products**. I work across web, mobile, backend systems, and AI, with a focus on creating practical solutions and polished user experiences.
+
+### 🛠️ Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,mongodb,mysql,postgres,git,github,vercel&perline=9" />
+</p>
+
+### 🌐 Portfolio
+
+[**hasnain-ali-portfolio.vercel.app**](https://hasnain-ali-portfolio.vercel.app/)
+
+---
+
+**Build • Learn • Innovate**
