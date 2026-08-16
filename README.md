@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hasnain+Ali+%F0%9F%91%8B" alt="Hi, I'm Hasnain Ali" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=470&lines=Hi%2C+I'm+Hasnain+Ali" alt="Hi, I'm Hasnain Ali" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Waving Hand" />
 </p>
 
 <p align="center">
