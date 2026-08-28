@@ -13,7 +13,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 ### 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,mongodb,mysql,postgres,git,github,vercel&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,mysql,postgres,git,github,vercel&perline=9" />
 </p>
 
 ### 🌐 Portfolio
