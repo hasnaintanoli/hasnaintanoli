@@ -10,6 +10,14 @@
 
 I'm passionate about building **clean, modern, and scalable digital products**. I work across web, mobile, backend systems, and AI, with a focus on creating practical solutions and polished user experiences.
 
+<p align="center">
+  <img 
+    src="./Typing%20Animation.gif" 
+    width="700px" 
+    alt="Typing Animation"
+  />
+</p>
+
 ### 🛠️ Technologies
 
 <p align="left">
