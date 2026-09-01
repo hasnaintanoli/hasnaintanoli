@@ -64,6 +64,9 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,vercel,netlify,azure,googlecloud&perline=9" />
 </p> -->
+<p align="center">
+  <img src="./skills-animation.svg" alt="My Skills Animation" width="100%" />
+</p>
 
 ### 🌐 Portfolio
 
