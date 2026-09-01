@@ -45,7 +45,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,jquery,threejs,spline,figma,canva,vercel,netlify,azure,googlecloud&perline=9" />
 </p> -->
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,nodejs&perline=9" />
 </p>
 
