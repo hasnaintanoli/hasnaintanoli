@@ -34,7 +34,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,supabase,mysql,postgres,sqlite,git,github,bootstrap,jquery,dotnet,cs,materialui,azure,cpp&perline=9" />
 </p> -->
-<p align="left">
+<!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,nodejs,express,php,laravel,flutter,dart,python,cpp,cs,dotnet&perline=9" />
 </p>
 
@@ -44,6 +44,25 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,jquery,threejs,spline,figma,canva,vercel,netlify,azure,googlecloud&perline=9" />
+</p> -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,nodejs&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,php,laravel,flutter,dart,python,cpp,cs,dotnet&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql,postgres,sqlite,firebase,redis,git,github&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,linux,postman,bootstrap,tailwind,materialui,jquery,threejs&perline=9" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spline,figma,canva,vercel,netlify,azure,googlecloud&perline=9" />
 </p>
 
 ### 🌐 Portfolio
