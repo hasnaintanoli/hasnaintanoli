@@ -32,7 +32,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,mysql,postgres,git,github&perline=9" />
 </p> 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,mysql,postgres,sqlite,git,github,bootstrap,jquery,dotnet,cs,materialui,azure,cpp&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,supabase,mysql,postgres,sqlite,git,github,bootstrap,jquery,dotnet,cs,materialui,azure,cpp&perline=9" />
 </p>
 
 ### 🌐 Portfolio
