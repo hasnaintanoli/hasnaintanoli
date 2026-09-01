@@ -22,7 +22,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
   <img 
     src="./video.webp" 
     width="700px" 
-    alt="Typing Animation"
+    alt="Hasnain Ali Pixel Art Video"
   />
 </p>
 
