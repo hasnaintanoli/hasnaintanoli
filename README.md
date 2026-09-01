@@ -53,11 +53,11 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
   <img src="https://skillicons.dev/icons?i=express,php,laravel,flutter,dart,python,cpp,cs,dotnet&perline=9" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql,postgres,sqlite,firebase,redis,git,github&perline=9" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://skillicons.dev/icons?i=githubactions,docker,linux,postman,bootstrap,tailwind,materialui,jquery,threejs&perline=9" />
 </p>
 
