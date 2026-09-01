@@ -34,7 +34,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 <!-- <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,laravel,flutter,dart,python,mongodb,supabase,mysql,postgres,sqlite,git,github,bootstrap,jquery,dotnet,cs,materialui,azure,cpp&perline=9" />
 </p> -->
-<!-- <p align="left">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,nodejs,express,php,laravel,flutter,dart,python,cpp,cs,dotnet&perline=9" />
 </p>
 
@@ -44,62 +44,7 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,jquery,threejs,spline,figma,canva,vercel,netlify,azure,googlecloud&perline=9" />
-</p> -->
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,cpp,cs,dart&perline=5" />
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚡ Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,nodejs,express,laravel,dotnet,flutter&perline=5" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase,redis&perline=4" />
-
-</td>
-
-<td align="center">
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=4" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,azure,vercel,netlify&perline=4" />
-
-</td>
-
-<td align="center">
-
-### 🎨 UI & Tools
-
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,figma,postman,vscode&perline=4" />
-
-</td>
-</tr>
-</table>
+</p>
 
 ### 🌐 Portfolio
 
