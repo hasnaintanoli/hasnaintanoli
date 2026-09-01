@@ -18,6 +18,14 @@ I'm passionate about building **clean, modern, and scalable digital products**. 
   />
 </p>
 
+<p align="center">
+  <img 
+    src="./video.webp" 
+    width="700px" 
+    alt="Typing Animation"
+  />
+</p>
+
 ### 🛠️ Technologies
 
 <p align="left">
