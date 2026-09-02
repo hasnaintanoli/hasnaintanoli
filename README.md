@@ -8,7 +8,8 @@
   <b>Full Stack Web Developer • Mobile App Developer • AI Student</b>
 </p>
 
-I'm passionate about building **clean, modern, and scalable digital products**. I work across web, mobile, backend systems, and AI, with a focus on creating practical solutions and polished user experiences.
+I’m a Full-Stack Developer and AI enthusiast specializing in modern web development, mobile app development, backend engineering, and AI-powered solutions. I build clean, scalable, and production-ready digital products using modern technologies, with a strong focus on performance, usability, automation, and polished UI/UX. My work combines software engineering and artificial intelligence to turn ideas into practical, reliable, and real-world applications.
+
 
 <!-- <p align="center">
   <img 
